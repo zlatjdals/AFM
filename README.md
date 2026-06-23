@@ -65,7 +65,7 @@ Rscript simulations/summarize_simulation.R outputs/simulation/case1 outputs/simu
 
 ## Korean macro dynamic AFM analysis
 
-The Korean macroeconomic dataset is not included in this public repository. The raw ECOS download/preprocessing script is also intentionally excluded because it requires a private API key. No API key, raw Korean macroeconomic data, or processed Korean macroeconomic data object is stored in this repository.
+The Korean macroeconomic data are not included in this repository. They can be accessed through the Bank of Korea ECOS Open API subject to the provider's terms of use and API-key registration.
 
 To reproduce the Korean macro dynamic AFM analysis, place your local processed data object at the following path after creating the directory locally:
 
