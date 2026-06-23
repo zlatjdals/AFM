@@ -1,0 +1,150 @@
+short_code,group_name,short_label,series,table_code,item_code1,item_name1,item_code2,item_name2,cycle,transformation,transform,unit_name,label_kr
+IR1,Interest rates,KORIBOR(12개월),817Y002_010152000,817Y002,010152000,KORIBOR(12개월),,,D,Difference,diff,연%,시장금리_KORIBOR(12개월)
+IR2,Interest rates,KORIBOR(3개월),817Y002_010150000,817Y002,010150000,KORIBOR(3개월),,,D,Difference,diff,연%,시장금리_KORIBOR(3개월)
+IR3,Interest rates,KORIBOR(6개월),817Y002_010151000,817Y002,010151000,KORIBOR(6개월),,,D,Difference,diff,연%,시장금리_KORIBOR(6개월)
+IR4,Interest rates,국고채(10년),817Y002_010210000,817Y002,010210000,국고채(10년),,,D,Difference,diff,연%,시장금리_국고채(10년)
+IR5,Interest rates,국고채(1년),817Y002_010190000,817Y002,010190000,국고채(1년),,,D,Difference,diff,연%,시장금리_국고채(1년)
+IR6,Interest rates,국고채(20년),817Y002_010220000,817Y002,010220000,국고채(20년),,,D,Difference,diff,연%,시장금리_국고채(20년)
+IR7,Interest rates,국고채(30년),817Y002_010230000,817Y002,010230000,국고채(30년),,,D,Difference,diff,연%,시장금리_국고채(30년)
+IR8,Interest rates,국고채(3년),817Y002_010200000,817Y002,010200000,국고채(3년),,,D,Difference,diff,연%,시장금리_국고채(3년)
+IR9,Interest rates,국고채(5년),817Y002_010200001,817Y002,010200001,국고채(5년),,,D,Difference,diff,연%,시장금리_국고채(5년)
+IR10,Interest rates,산금채(1년),817Y002_010260000,817Y002,010260000,산금채(1년),,,D,Difference,diff,연%,시장금리_산금채(1년)
+IR11,Interest rates,"콜금리(1일, 전체거래)",817Y002_010101000,817Y002,010101000,"콜금리(1일, 전체거래)",,,D,Difference,diff,연%,"시장금리_콜금리(1일, 전체거래)"
+IR12,Interest rates,"콜금리(1일, 중개회사거래)",817Y002_010102000,817Y002,010102000,"콜금리(1일, 중개회사거래)",,,D,Difference,diff,연%,"시장금리_콜금리(1일, 중개회사거래)"
+IR13,Interest rates,"회사채(3년, AA-)",817Y002_010300000,817Y002,010300000,"회사채(3년, AA-)",,,D,Difference,diff,연%,"시장금리_회사채(3년, AA-)"
+IR14,Interest rates,"회사채(3년, AA-, 민평)",817Y002_010310000,817Y002,010310000,"회사채(3년, AA-, 민평)",,,D,Difference,diff,연%,"시장금리_회사채(3년, AA-, 민평)"
+RA1,Real activity / investment,Permits/orders: 개인(매도)_거래량,901Y055_S22AB_VO,901Y055,S22AB,개인(매도),VO,거래량,M,Log-difference,logdiff,천주,건축허가_기계수주_개인(매도)_거래량
+RA2,Real activity / investment,Permits/orders: 기관투자자(매도)_거래량,901Y055_S22AA_VO,901Y055,S22AA,기관투자자(매도),VO,거래량,M,Log-difference,logdiff,천주,건축허가_기계수주_기관투자자(매도)_거래량
+RA3,Real activity / investment,Permits/orders: 기관투자자(매수)_거래량,901Y055_S22BA_VO,901Y055,S22BA,기관투자자(매수),VO,거래량,M,Log-difference,logdiff,천주,건축허가_기계수주_기관투자자(매수)_거래량
+RA4,Real activity / investment,Permits/orders: 기타법인(매도)_거래량,901Y055_S22AF_VO,901Y055,S22AF,기타법인(매도),VO,거래량,M,Log-difference,logdiff,천주,건축허가_기계수주_기타법인(매도)_거래량
+RA5,Real activity / investment,Permits/orders: 기타법인(매수)_거래량,901Y055_S22BF_VO,901Y055,S22BF,기타법인(매수),VO,거래량,M,Log-difference,logdiff,천주,건축허가_기계수주_기타법인(매수)_거래량
+RA6,Real activity / investment,Permits/orders: 기타법인(순매수)_거래량,901Y055_S22CF_VO,901Y055,S22CF,기타법인(순매수),VO,거래량,M,Log-difference,logdiff,천주,건축허가_기계수주_기타법인(순매수)_거래량
+RA7,Real activity / investment,Permits/orders: 기타외국인(매도) 4)_거래량,901Y055_S22AD_VO,901Y055,S22AD,기타외국인(매도) 4),VO,거래량,M,Log-difference,logdiff,천주,건축허가_기계수주_기타외국인(매도) 4)_거래량
+RA8,Real activity / investment,Permits/orders: 매도 1)_거래량,901Y055_S22A_VO,901Y055,S22A,매도 1),VO,거래량,M,Log-difference,logdiff,천주,건축허가_기계수주_매도 1)_거래량
+RA9,Real activity / investment,Permits/orders: 매수 1)_거래량,901Y055_S22B_VO,901Y055,S22B,매수 1),VO,거래량,M,Log-difference,logdiff,천주,건축허가_기계수주_매수 1)_거래량
+RA10,Real activity / investment,Permits/orders: 외국인(매도) 3)_거래량,901Y055_S22AC_VO,901Y055,S22AC,외국인(매도) 3),VO,거래량,M,Log-difference,logdiff,천주,건축허가_기계수주_외국인(매도) 3)_거래량
+RA11,Real activity / investment,Employment: 건설업,901Y083_166AF,901Y083,166AF,건설업,,,M,Log-difference,logdiff,명,고용지표(경제활동)_건설업
+RA12,Real activity / investment,"Employment: 사업시설 관리, 사업 지원 및 임대 서비스업",901Y083_166AN,901Y083,166AN,"사업시설 관리, 사업 지원 및 임대 서비스업",,,M,Log-difference,logdiff,명,"고용지표(경제활동)_사업시설 관리, 사업 지원 및 임대 서비스업"
+RA13,Real activity / investment,"Employment: 전문, 과학 및 기술 서비스업",901Y083_166AM,901Y083,166AM,"전문, 과학 및 기술 서비스업",,,M,Log-difference,logdiff,명,"고용지표(경제활동)_전문, 과학 및 기술 서비스업"
+RA14,Real activity / investment,Service production: 도매 및 소매업_계절조정지수,901Y038_I51AB_3,901Y038,I51AB,도매 및 소매업,3,계절조정지수,M,Log-difference,logdiff,2020=100,서비스업생산지수_도매 및 소매업_계절조정지수
+RA15,Real activity / investment,Service production: 도매업_계절조정지수,901Y038_I51ABB_3,901Y038,I51ABB,도매업,3,계절조정지수,M,Log-difference,logdiff,2020=100,서비스업생산지수_도매업_계절조정지수
+RA16,Real activity / investment,Service production: 산업용 농축산물 도매업_계절조정지수,901Y038_I51ABBA_3,901Y038,I51ABBA,산업용 농축산물 도매업,3,계절조정지수,M,Log-difference,logdiff,2020=100,서비스업생산지수_산업용 농축산물 도매업_계절조정지수
+RA17,Real activity / investment,Service production: 생활용품 도매업_계절조정지수,901Y038_I51ABBC_3,901Y038,I51ABBC,생활용품 도매업,3,계절조정지수,M,Log-difference,logdiff,2020=100,서비스업생산지수_생활용품 도매업_계절조정지수
+RA18,Real activity / investment,"Service production: 수도, 하수 및 폐기물 처리, 원료 재생업_계절조정지수",901Y038_I51AA_3,901Y038,I51AA,"수도, 하수 및 폐기물 처리, 원료 재생업",3,계절조정지수,M,Log-difference,logdiff,2020=100,"서비스업생산지수_수도, 하수 및 폐기물 처리, 원료 재생업_계절조정지수"
+RA19,Real activity / investment,Service production: 수도업_계절조정지수,901Y038_I51AACA_3,901Y038,I51AACA,수도업,3,계절조정지수,M,Log-difference,logdiff,2020=100,서비스업생산지수_수도업_계절조정지수
+RA21,Real activity / investment,Service production: 음식료품 및 담배 도매업_계절조정지수,901Y038_I51ABBB_3,901Y038,I51ABBB,음식료품 및 담배 도매업,3,계절조정지수,M,Log-difference,logdiff,2020=100,서비스업생산지수_음식료품 및 담배 도매업_계절조정지수
+RA22,Real activity / investment,Service production: 자동차 및 부품판매업_계절조정지수,901Y038_I51ABA_3,901Y038,I51ABA,자동차 및 부품판매업,3,계절조정지수,M,Log-difference,logdiff,2020=100,서비스업생산지수_자동차 및 부품판매업_계절조정지수
+RA23,Real activity / investment,Service production: 자동차 부품 및 이륜차 판매업_계절조정지수,901Y038_I51ABAB_3,901Y038,I51ABAB,자동차 부품 및 이륜차 판매업,3,계절조정지수,M,Log-difference,logdiff,2020=100,서비스업생산지수_자동차 부품 및 이륜차 판매업_계절조정지수
+RA24,Real activity / investment,Service production: 자동차 판매업_계절조정지수,901Y038_I51ABAA_3,901Y038,I51ABAA,자동차 판매업,3,계절조정지수,M,Log-difference,logdiff,2020=100,서비스업생산지수_자동차 판매업_계절조정지수
+RA25,Real activity / investment,Service production: 총지수_계절조정지수,901Y038_I51A_3,901Y038,I51A,총지수,3,계절조정지수,M,Log-difference,logdiff,2020=100,서비스업생산지수_총지수_계절조정지수
+RA26,Real activity / investment,"Service production: 폐기물 수집운반, 처리 및 원료재생업_계절조정지수",901Y038_I51AAB_3,901Y038,I51AAB,"폐기물 수집운반, 처리 및 원료재생업",3,계절조정지수,M,Log-difference,logdiff,2020=100,"서비스업생산지수_폐기물 수집운반, 처리 및 원료재생업_계절조정지수"
+RA27,Real activity / investment,"Service production: 하수, 폐수 및 분뇨 처리업_계절조정지수",901Y038_I51AAAA_3,901Y038,I51AAAA,"하수, 폐수 및 분뇨 처리업",3,계절조정지수,M,Log-difference,logdiff,2020=100,"서비스업생산지수_하수, 폐수 및 분뇨 처리업_계절조정지수"
+RA29,Real activity / investment,Investment/construction: 계절조정지수,901Y066_I15B,901Y066,I15B,계절조정지수,,,M,Log-difference,logdiff,2020=100,설비투자_건설기성_계절조정지수
+RA30,Real activity / investment,Investment/construction: 원지수,901Y066_I15A,901Y066,I15A,원지수,,,M,Log-difference,logdiff,2020=100,설비투자_건설기성_원지수
+RA31,Real activity / investment,Industrial production: 건설업_계절조정,901Y033_AD00_2,901Y033,AD00,건설업,2,계절조정,M,Log-difference,logdiff,2020=100,전산업생산지수_건설업_계절조정
+RA32,Real activity / investment,Industrial production: 공공행정_계절조정,901Y033_AE00_2,901Y033,AE00,공공행정,2,계절조정,M,Log-difference,logdiff,2020=100,전산업생산지수_공공행정_계절조정
+RA33,Real activity / investment,Industrial production: 광공업_계절조정,901Y033_AB00_2,901Y033,AB00,광공업,2,계절조정,M,Log-difference,logdiff,2020=100,전산업생산지수_광공업_계절조정
+RA34,Real activity / investment,Industrial production: 서비스업_계절조정,901Y033_AC00_2,901Y033,AC00,서비스업,2,계절조정,M,Log-difference,logdiff,2020=100,전산업생산지수_서비스업_계절조정
+RA35,Real activity / investment,Industrial production: 전산업생산지수(농림어업 제외)_계절조정,901Y033_A00_2,901Y033,A00,전산업생산지수(농림어업 제외),2,계절조정,M,Log-difference,logdiff,2020=100,전산업생산지수_전산업생산지수(농림어업 제외)_계절조정
+RA36,Real activity / investment,Manufacturing production: 건설용_생산지수(계절조정),901Y034_I31AAF_I10B,901Y034,I31AAF,건설용,I10B,생산지수(계절조정),M,Log-difference,logdiff,2020=100,제조업생산지수_건설용_생산지수(계절조정)
+RA37,Real activity / investment,Manufacturing production: 기타_생산지수(계절조정),901Y034_I31AAH_I10B,901Y034,I31AAH,기타,I10B,생산지수(계절조정),M,Log-difference,logdiff,2020=100,제조업생산지수_기타_생산지수(계절조정)
+RA38,Real activity / investment,Manufacturing production: 농업용_생산지수(계절조정),901Y034_I31AAE_I10B,901Y034,I31AAE,농업용,I10B,생산지수(계절조정),M,Log-difference,logdiff,2020=100,제조업생산지수_농업용_생산지수(계절조정)
+RA39,Real activity / investment,Manufacturing production: 사무용_생산지수(계절조정),901Y034_I31AAG_I10B,901Y034,I31AAG,사무용,I10B,생산지수(계절조정),M,Log-difference,logdiff,2020=100,제조업생산지수_사무용_생산지수(계절조정)
+RA40,Real activity / investment,Manufacturing production: 운송장비_생산지수(계절조정),901Y034_I31AAD_I10B,901Y034,I31AAD,운송장비,I10B,생산지수(계절조정),M,Log-difference,logdiff,2020=100,제조업생산지수_운송장비_생산지수(계절조정)
+RA41,Real activity / investment,Manufacturing production: 자본재_생산지수(계절조정),901Y034_I31AA_I10B,901Y034,I31AA,자본재,I10B,생산지수(계절조정),M,Log-difference,logdiff,2020=100,제조업생산지수_자본재_생산지수(계절조정)
+RA42,Real activity / investment,Manufacturing production: 전력용_생산지수(계절조정),901Y034_I31AAB_I10B,901Y034,I31AAB,전력용,I10B,생산지수(계절조정),M,Log-difference,logdiff,2020=100,제조업생산지수_전력용_생산지수(계절조정)
+RA43,Real activity / investment,Manufacturing production: 제조설비용_생산지수(계절조정),901Y034_I31AAA_I10B,901Y034,I31AAA,제조설비용,I10B,생산지수(계절조정),M,Log-difference,logdiff,2020=100,제조업생산지수_제조설비용_생산지수(계절조정)
+RA44,Real activity / investment,Manufacturing production: 중간재_생산지수(계절조정),901Y034_I31AB_I10B,901Y034,I31AB,중간재,I10B,생산지수(계절조정),M,Log-difference,logdiff,2020=100,제조업생산지수_중간재_생산지수(계절조정)
+RA45,Real activity / investment,Manufacturing production: 통신방송용_생산지수(계절조정),901Y034_I31AAC_I10B,901Y034,I31AAC,통신방송용,I10B,생산지수(계절조정),M,Log-difference,logdiff,2020=100,제조업생산지수_통신방송용_생산지수(계절조정)
+RA46,Real activity / investment,"Shipment/inventory: 곡물가공품, 전분 및 전분제품 제조업_가동률지수(계절조정)",901Y035_I32AA6_I11C,901Y035,I32AA6,"곡물가공품, 전분 및 전분제품 제조업",I11C,가동률지수(계절조정),M,Log-difference,logdiff,2020=100,"제조업출하_재고지수_곡물가공품, 전분 및 전분제품 제조업_가동률지수(계절조정)"
+RA47,Real activity / investment,"Shipment/inventory: 과실, 채소 가공 및 저장 처리업_가동률지수(계절조정)",901Y035_I32AA3_I11C,901Y035,I32AA3,"과실, 채소 가공 및 저장 처리업",I11C,가동률지수(계절조정),M,Log-difference,logdiff,2020=100,"제조업출하_재고지수_과실, 채소 가공 및 저장 처리업_가동률지수(계절조정)"
+RA48,Real activity / investment,Shipment/inventory: 기타 식품 제조업_가동률지수(계절조정),901Y035_I32AA7_I11C,901Y035,I32AA7,기타 식품 제조업,I11C,가동률지수(계절조정),M,Log-difference,logdiff,2020=100,제조업출하_재고지수_기타 식품 제조업_가동률지수(계절조정)
+RA49,Real activity / investment,Shipment/inventory: 낙농제품 및 식용빙과류 제조업_가동률지수(계절조정),901Y035_I32AA5_I11C,901Y035,I32AA5,낙농제품 및 식용빙과류 제조업,I11C,가동률지수(계절조정),M,Log-difference,logdiff,2020=100,제조업출하_재고지수_낙농제품 및 식용빙과류 제조업_가동률지수(계절조정)
+RA50,Real activity / investment,"Shipment/inventory: 도축, 육류 가공 및 저장 처리업_가동률지수(계절조정)",901Y035_I32AA1_I11C,901Y035,I32AA1,"도축, 육류 가공 및 저장 처리업",I11C,가동률지수(계절조정),M,Log-difference,logdiff,2020=100,"제조업출하_재고지수_도축, 육류 가공 및 저장 처리업_가동률지수(계절조정)"
+RA51,Real activity / investment,Shipment/inventory: 동물성 및 식물성 유지 제조업_가동률지수(계절조정),901Y035_I32AA4_I11C,901Y035,I32AA4,동물성 및 식물성 유지 제조업,I11C,가동률지수(계절조정),M,Log-difference,logdiff,2020=100,제조업출하_재고지수_동물성 및 식물성 유지 제조업_가동률지수(계절조정)
+RA52,Real activity / investment,Shipment/inventory: 동물용 사료 및 조제식품 제조업_가동률지수(계절조정),901Y035_I32AA8_I11C,901Y035,I32AA8,동물용 사료 및 조제식품 제조업,I11C,가동률지수(계절조정),M,Log-difference,logdiff,2020=100,제조업출하_재고지수_동물용 사료 및 조제식품 제조업_가동률지수(계절조정)
+RA53,Real activity / investment,Shipment/inventory: 수산물 가공 및 저장 처리업_가동률지수(계절조정),901Y035_I32AA2_I11C,901Y035,I32AA2,수산물 가공 및 저장 처리업,I11C,가동률지수(계절조정),M,Log-difference,logdiff,2020=100,제조업출하_재고지수_수산물 가공 및 저장 처리업_가동률지수(계절조정)
+RA54,Real activity / investment,Shipment/inventory: 식료품 제조업_가동률지수(계절조정),901Y035_I32AA_I11C,901Y035,I32AA,식료품 제조업,I11C,가동률지수(계절조정),M,Log-difference,logdiff,2020=100,제조업출하_재고지수_식료품 제조업_가동률지수(계절조정)
+RA55,Real activity / investment,Shipment/inventory: 제조업_가동률지수(계절조정),901Y035_I32A_I11C,901Y035,I32A,제조업,I11C,가동률지수(계절조정),M,Log-difference,logdiff,2020=100,제조업출하_재고지수_제조업_가동률지수(계절조정)
+SENT1,Sentiment / composite,Composite index: 경기,901Y064_P65J,901Y064,P65J,경기,,,M,Difference,diff,%,경기종합지수_경기
+SENT2,Sentiment / composite,Composite index: 광주,901Y064_P65F,901Y064,P65F,광주,,,M,Difference,diff,%,경기종합지수_광주
+SENT3,Sentiment / composite,Composite index: 대구,901Y064_P65D,901Y064,P65D,대구,,,M,Difference,diff,%,경기종합지수_대구
+SENT4,Sentiment / composite,Composite index: 대전,901Y064_P65G,901Y064,P65G,대전,,,M,Difference,diff,%,경기종합지수_대전
+SENT5,Sentiment / composite,Composite index: 부산,901Y064_P65C,901Y064,P65C,부산,,,M,Difference,diff,%,경기종합지수_부산
+SENT6,Sentiment / composite,Composite index: 서울,901Y064_P65B,901Y064,P65B,서울,,,M,Difference,diff,%,경기종합지수_서울
+SENT7,Sentiment / composite,Composite index: 세종,901Y064_P65I,901Y064,P65I,세종,,,M,Difference,diff,%,경기종합지수_세종
+SENT8,Sentiment / composite,Composite index: 울산,901Y064_P65H,901Y064,P65H,울산,,,M,Difference,diff,%,경기종합지수_울산
+SENT9,Sentiment / composite,Composite index: 인천,901Y064_P65E,901Y064,P65E,인천,,,M,Difference,diff,%,경기종합지수_인천
+SENT10,Sentiment / composite,Composite index: 전국,901Y064_P65A,901Y064,P65A,전국,,,M,Difference,diff,%,경기종합지수_전국
+SENT11,Sentiment / composite,CSI: 경제심리지수(순환변동치),513Y001_E2000,513Y001,E2000,경제심리지수(순환변동치),,,M,Log-difference,logdiff,,소비자심리지수(CSI)_경제심리지수(순환변동치)
+SENT12,Sentiment / composite,CSI: 경제심리지수(원계열),513Y001_E1000,513Y001,E1000,경제심리지수(원계열),,,M,Log-difference,logdiff,,소비자심리지수(CSI)_경제심리지수(원계열)
+EQ1,Equity market,Equity: KOSDAQ지수,802Y001_0089000,802Y001,0089000,KOSDAQ지수,,,D,Log-difference,logdiff,1996.07.01=1000,주식시장지표_KOSDAQ지수
+EQ2,Equity market,Equity: KOSPI지수,802Y001_0001000,802Y001,0001000,KOSPI지수,,,D,Log-difference,logdiff,1980.01.04=100,주식시장지표_KOSPI지수
+EQ3,Equity market,Equity: 거래대금(유가증권시장) 1),802Y001_0088000,802Y001,0088000,거래대금(유가증권시장) 1),,,D,Log-difference,logdiff,억원,주식시장지표_거래대금(유가증권시장) 1)
+EQ4,Equity market,Equity: 거래대금(코스닥시장) 1),802Y001_0091000,802Y001,0091000,거래대금(코스닥시장) 1),,,D,Log-difference,logdiff,억원,주식시장지표_거래대금(코스닥시장) 1)
+EQ5,Equity market,Equity: 거래량(유가증권시장) 1),802Y001_0087000,802Y001,0087000,거래량(유가증권시장) 1),,,D,Log-difference,logdiff,만주,주식시장지표_거래량(유가증권시장) 1)
+EQ6,Equity market,Equity: 거래량(코스닥시장) 1),802Y001_0090000,802Y001,0090000,거래량(코스닥시장) 1),,,D,Log-difference,logdiff,만주,주식시장지표_거래량(코스닥시장) 1)
+EQ7,Equity market,Equity: 시가총액(유가증권시장),802Y001_0183000,802Y001,0183000,시가총액(유가증권시장),,,D,Log-difference,logdiff,억원,주식시장지표_시가총액(유가증권시장)
+EQ8,Equity market,Equity: 외국인 순매수(유가증권시장) 1),802Y001_0030000,802Y001,0030000,외국인 순매수(유가증권시장) 1),,,D,Log-difference,logdiff,억원,주식시장지표_외국인 순매수(유가증권시장) 1)
+EQ9,Equity market,Equity: 외국인 순매수(코스닥시장) 1),802Y001_0113000,802Y001,0113000,외국인 순매수(코스닥시장) 1),,,D,Log-difference,logdiff,억원,주식시장지표_외국인 순매수(코스닥시장) 1)
+P1,Prices,Living prices: 계약금액 1),901Y057_S25C,901Y057,S25C,계약금액 1),,,M,Log-difference,logdiff,백만원,생활물가지수_계약금액 1)
+P2,Prices,Living prices: 계약금액(일평균) 1),901Y057_S25D,901Y057,S25D,계약금액(일평균) 1),,,M,Log-difference,logdiff,백만원,생활물가지수_계약금액(일평균) 1)
+P3,Prices,Living prices: 계약수 1),901Y057_S25A,901Y057,S25A,계약수 1),,,M,Log-difference,logdiff,계약,생활물가지수_계약수 1)
+P4,Prices,Living prices: 계약수(일평균) 1),901Y057_S25B,901Y057,S25B,계약수(일평균) 1),,,M,Log-difference,logdiff,계약,생활물가지수_계약수(일평균) 1)
+P5,Prices,CPI: 국수,901Y009_A01109,901Y009,A01109,국수,,,M,Log-difference,logdiff,2020=100,소비자물가지수_국수
+P6,Prices,CPI: 당면,901Y009_A01111,901Y009,A01111,당면,,,M,Log-difference,logdiff,2020=100,소비자물가지수_당면
+P7,Prices,CPI: 땅콩,901Y009_A01106,901Y009,A01106,땅콩,,,M,Log-difference,logdiff,2020=100,소비자물가지수_땅콩
+P8,Prices,CPI: 라면,901Y009_A01110,901Y009,A01110,라면,,,M,Log-difference,logdiff,2020=100,소비자물가지수_라면
+P9,Prices,CPI: 밀가루,901Y009_A01108,901Y009,A01108,밀가루,,,M,Log-difference,logdiff,2020=100,소비자물가지수_밀가루
+P10,Prices,CPI: 보리쌀,901Y009_A01104,901Y009,A01104,보리쌀,,,M,Log-difference,logdiff,2020=100,소비자물가지수_보리쌀
+P11,Prices,CPI: 빵 및 곡물,901Y009_A011,901Y009,A011,빵 및 곡물,,,M,Log-difference,logdiff,2020=100,소비자물가지수_빵 및 곡물
+P12,Prices,CPI: 식료품,901Y009_A01,901Y009,A01,식료품,,,M,Log-difference,logdiff,2020=100,소비자물가지수_식료품
+P13,Prices,CPI: 식료품 및 비주류음료,901Y009_A,901Y009,A,식료품 및 비주류음료,,,M,Log-difference,logdiff,2020=100,소비자물가지수_식료품 및 비주류음료
+P14,Prices,CPI: 쌀,901Y009_A01101,901Y009,A01101,쌀,,,M,Log-difference,logdiff,2020=100,소비자물가지수_쌀
+P15,Prices,CPI: 찹쌀,901Y009_A01103,901Y009,A01103,찹쌀,,,M,Log-difference,logdiff,2020=100,소비자물가지수_찹쌀
+P16,Prices,CPI: 총지수,901Y009_0,901Y009,0,총지수,,,M,Log-difference,logdiff,2020=100,소비자물가지수_총지수
+P17,Prices,CPI: 콩,901Y009_A01105,901Y009,A01105,콩,,,M,Log-difference,logdiff,2020=100,소비자물가지수_콩
+P18,Prices,CPI: 현미,901Y009_A01102,901Y009,A01102,현미,,,M,Log-difference,logdiff,2020=100,소비자물가지수_현미
+P19,Prices,CPI: 혼식곡,901Y009_A01107,901Y009,A01107,혼식곡,,,M,Log-difference,logdiff,2020=100,소비자물가지수_혼식곡
+EMP1,Employment,"Employment: 공공행정, 국방 및 사회보장 행정",901Y083_166AO,901Y083,166AO,"공공행정, 국방 및 사회보장 행정",,,M,Log-difference,logdiff,명,"고용지표(경제활동)_공공행정, 국방 및 사회보장 행정"
+EMP2,Employment,Employment: 광업,901Y083_166AB,901Y083,166AB,광업,,,M,Log-difference,logdiff,명,고용지표(경제활동)_광업
+EMP3,Employment,Employment: 금융 및 보험업,901Y083_166AK,901Y083,166AK,금융 및 보험업,,,M,Log-difference,logdiff,명,고용지표(경제활동)_금융 및 보험업
+EMP4,Employment,"Employment: 농업, 임업 및 어업",901Y083_166AA,901Y083,166AA,"농업, 임업 및 어업",,,M,Log-difference,logdiff,명,"고용지표(경제활동)_농업, 임업 및 어업"
+EMP5,Employment,Employment: 도매 및 소매업,901Y083_166AG,901Y083,166AG,도매 및 소매업,,,M,Log-difference,logdiff,명,고용지표(경제활동)_도매 및 소매업
+EMP6,Employment,Employment: 부동산업,901Y083_166AL,901Y083,166AL,부동산업,,,M,Log-difference,logdiff,명,고용지표(경제활동)_부동산업
+EMP7,Employment,"Employment: 수도, 하수 및 폐기물 처리, 원료 재생업",901Y083_166AE,901Y083,166AE,"수도, 하수 및 폐기물 처리, 원료 재생업",,,M,Log-difference,logdiff,명,"고용지표(경제활동)_수도, 하수 및 폐기물 처리, 원료 재생업"
+EMP8,Employment,Employment: 숙박 및 음식점업,901Y083_166AI,901Y083,166AI,숙박 및 음식점업,,,M,Log-difference,logdiff,명,고용지표(경제활동)_숙박 및 음식점업
+EMP9,Employment,Employment: 운수 및 창고업,901Y083_166AH,901Y083,166AH,운수 및 창고업,,,M,Log-difference,logdiff,명,고용지표(경제활동)_운수 및 창고업
+EMP10,Employment,"Employment: 전기, 가스, 증기 및 공기조절 공급업",901Y083_166AD,901Y083,166AD,"전기, 가스, 증기 및 공기조절 공급업",,,M,Log-difference,logdiff,명,"고용지표(경제활동)_전기, 가스, 증기 및 공기조절 공급업"
+EMP11,Employment,Employment: 정보통신업,901Y083_166AJ,901Y083,166AJ,정보통신업,,,M,Log-difference,logdiff,명,고용지표(경제활동)_정보통신업
+EMP12,Employment,Employment: 제조업,901Y083_166AC,901Y083,166AC,제조업,,,M,Log-difference,logdiff,명,고용지표(경제활동)_제조업
+M1,Money / liquidity,M2: CMA,161Y006_BBHA08,161Y006,BBHA08,CMA,,,M,Log-difference,logdiff,십억원,M2통화량_CMA
+M2,Money / liquidity,"M2: M2(평잔, 원계열)",161Y006_BBHA00,161Y006,BBHA00,"M2(평잔, 원계열)",,,M,Log-difference,logdiff,십억원,"M2통화량_M2(평잔, 원계열)"
+M3,Money / liquidity,M2: MMF 지분,161Y006_BBHA04,161Y006,BBHA04,MMF 지분,,,M,Log-difference,logdiff,십억원,M2통화량_MMF 지분
+M4,Money / liquidity,M2: 만기2년미만금전신탁,161Y006_BBHA10,161Y006,BBHA10,만기2년미만금전신탁,,,M,Log-difference,logdiff,십억원,M2통화량_만기2년미만금전신탁
+M5,Money / liquidity,M2: 만기2년미만정기예적금,161Y006_BBHA05,161Y006,BBHA05,만기2년미만정기예적금,,,M,Log-difference,logdiff,십억원,M2통화량_만기2년미만정기예적금
+M6,Money / liquidity,M2: 매출어음,161Y006_BBHA07,161Y006,BBHA07,매출어음,,,M,Log-difference,logdiff,십억원,M2통화량_매출어음
+M7,Money / liquidity,M2: 수시입출식저축성예금,161Y006_BBHA03,161Y006,BBHA03,수시입출식저축성예금,,,M,Log-difference,logdiff,십억원,M2통화량_수시입출식저축성예금
+M8,Money / liquidity,M2: 양도성예금증서,161Y006_BBHA06,161Y006,BBHA06,양도성예금증서,,,M,Log-difference,logdiff,십억원,M2통화량_양도성예금증서
+M9,Money / liquidity,M2: 요구불예금,161Y006_BBHA02,161Y006,BBHA02,요구불예금,,,M,Log-difference,logdiff,십억원,M2통화량_요구불예금
+M10,Money / liquidity,M2: 현금통화,161Y006_BBHA01,161Y006,BBHA01,현금통화,,,M,Log-difference,logdiff,십억원,M2통화량_현금통화
+M11,Money / liquidity,Lf: 2년이상 장기금융상품 2),171Y003_LAS1200,171Y003,LAS1200,2년이상 장기금융상품 2),,,M,Log-difference,logdiff,십억원,광의유동성(Lf)_2년이상 장기금융상품 2)
+M12,Money / liquidity,"Lf: Lf(금융기관유동성) : 상품별(평잔, 계절조정계열)",171Y003_LAS0000,171Y003,LAS0000,"Lf(금융기관유동성) : 상품별(평잔, 계절조정계열)",,,M,Log-difference,logdiff,십억원,"광의유동성(Lf)_Lf(금융기관유동성) : 상품별(평잔, 계절조정계열)"
+M13,Money / liquidity,Lf: M2,171Y003_LAS1100,171Y003,LAS1100,M2,,,M,Log-difference,logdiff,십억원,광의유동성(Lf)_M2
+M14,Money / liquidity,Lf: 비예금취급기관 발행 금융상품 3),171Y003_LAS2000,171Y003,LAS2000,비예금취급기관 발행 금융상품 3),,,M,Log-difference,logdiff,십억원,광의유동성(Lf)_비예금취급기관 발행 금융상품 3)
+M15,Money / liquidity,Lf: 예금취급기관 발행 금융상품 1),171Y003_LAS1000,171Y003,LAS1000,예금취급기관 발행 금융상품 1),,,M,Log-difference,logdiff,십억원,광의유동성(Lf)_예금취급기관 발행 금융상품 1)
+M16,Money / liquidity,Deposits: 정기예금-2%~3%미만,121Y008_AA02003,121Y008,AA02003,정기예금-2%~3%미만,,,M,Difference,diff,%,예금은행총예금_정기예금-2%~3%미만
+M17,Money / liquidity,Deposits: 정기예금-2%미만,121Y008_AA00002,121Y008,AA00002,정기예금-2%미만,,,M,Difference,diff,%,예금은행총예금_정기예금-2%미만
+M18,Money / liquidity,Deposits: 정기예금-3%~4%미만,121Y008_AA03004,121Y008,AA03004,정기예금-3%~4%미만,,,M,Difference,diff,%,예금은행총예금_정기예금-3%~4%미만
+M19,Money / liquidity,Deposits: 정기예금-4%~5%미만,121Y008_AA04005,121Y008,AA04005,정기예금-4%~5%미만,,,M,Difference,diff,%,예금은행총예금_정기예금-4%~5%미만
+M20,Money / liquidity,Deposits: 정기예금-5%~6%미만,121Y008_AA05006,121Y008,AA05006,정기예금-5%~6%미만,,,M,Difference,diff,%,예금은행총예금_정기예금-5%~6%미만
+M21,Money / liquidity,Deposits: 정기예금-6%~7%미만,121Y008_AA06007,121Y008,AA06007,정기예금-6%~7%미만,,,M,Difference,diff,%,예금은행총예금_정기예금-6%~7%미만
+FX1,Exchange rates / reserves,Reserves: IMF포지션,732Y001_03,732Y001,03,IMF포지션,,,M,Log-difference,logdiff,천달러,외환보유액_원자재_IMF포지션
+FX2,Exchange rates / reserves,Reserves: 금,732Y001_01,732Y001,01,금,,,M,Log-difference,logdiff,천달러,외환보유액_원자재_금
+FX3,Exchange rates / reserves,Reserves: 외환,732Y001_04,732Y001,04,외환,,,M,Log-difference,logdiff,천달러,외환보유액_원자재_외환
+FX4,Exchange rates / reserves,Reserves: 특별인출권,732Y001_02,732Y001,02,특별인출권,,,M,Log-difference,logdiff,천달러,외환보유액_원자재_특별인출권
+FX5,Exchange rates / reserves,Reserves: 합계,732Y001_99,732Y001,99,합계,,,M,Log-difference,logdiff,천달러,외환보유액_원자재_합계
+FX6,Exchange rates / reserves,FX: 원/미국달러(매매기준율),731Y001_0000001,731Y001,0000001,원/미국달러(매매기준율),,,D,Log-difference,logdiff,원,주요국환율_원/미국달러(매매기준율)
+FX7,Exchange rates / reserves,FX: 원/위안(매매기준율),731Y001_0000053,731Y001,0000053,원/위안(매매기준율),,,D,Log-difference,logdiff,원,주요국환율_원/위안(매매기준율)
+FX8,Exchange rates / reserves,FX: 원/유로,731Y001_0000003,731Y001,0000003,원/유로,,,D,Log-difference,logdiff,원,주요국환율_원/유로
+FX9,Exchange rates / reserves,FX: 원/일본엔(100엔),731Y001_0000002,731Y001,0000002,원/일본엔(100엔),,,D,Log-difference,logdiff,원,주요국환율_원/일본엔(100엔)
